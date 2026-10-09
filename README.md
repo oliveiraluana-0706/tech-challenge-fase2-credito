@@ -150,8 +150,8 @@ As bases originais não são disponibilizadas neste repositório; devem ser obti
 ## 8. Apresentação e entrega
 
 - **Repositório GitHub:** este repositório.
-- **Apresentação executiva:** [Visualizar apresentação em PDF](docs/Tech_Challenge_Fase2_Apresentacao_Executiva.pdf).
-- **Versão editável:** [Baixar apresentação em PowerPoint](docs/Tech_Challenge_Fase2_Apresentacao_Executiva.pptx).
+- **Apresentação executiva (PDF):** [Visualizar apresentação em PDF](docs/Tech_Challenge_Fase2_Apresentacao_Executiva.pdf).
+- **Apresentação executiva (PowerPoint):** [Baixar apresentação em PowerPoint](docs/Tech_Challenge_Fase2_Apresentacao_Executiva.pptx).
 - **Vídeo de apresentação:** link pendente de publicação.
 
 A apresentação gerencial foi preparada para uma exposição de aproximadamente quatro minutos, respeitando o limite máximo de cinco minutos estabelecido nas orientações do Tech Challenge.
