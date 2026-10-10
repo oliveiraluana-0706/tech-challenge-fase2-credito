@@ -154,4 +154,4 @@ As bases originais não são disponibilizadas neste repositório; devem ser obti
 - **Apresentação executiva (PowerPoint):** [Baixar apresentação em PowerPoint](docs/Tech_Challenge_Fase2_Apresentacao_Executiva.pptx).
 - **Vídeo de apresentação:** [Assistir no YouTube](https://youtu.be/FXhZSxd_XNw).
 
-A apresentação gerencial foi preparada para uma exposição de aproximadamente quatro minutos, respeitando o limite máximo de cinco minutos estabelecido nas orientações do Tech Challenge.
+A apresentação gerencial tem duração de 4 minutos e 41 segundos, respeitando o limite máximo de cinco minutos previsto nas orientações do Tech Challenge.
